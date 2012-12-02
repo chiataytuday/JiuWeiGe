@@ -1,0 +1,290 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = D2AAC07D0554694100DB518D /* QWeiboSDK4iOS */;
+		codeSenseManager = 36FF9CA01493689C0003B82B /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					316,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 345206579;
+			PBXWorkspaceStateSaveDate = 345206579;
+		};
+		perUserProjectItems = {
+			36FF9D3E14936C240003B82B /* PBXTextBookmark */ = 36FF9D3E14936C240003B82B /* PBXTextBookmark */;
+			36FF9D3F14936C240003B82B /* PBXTextBookmark */ = 36FF9D3F14936C240003B82B /* PBXTextBookmark */;
+			36FF9D4014936C240003B82B /* PBXTextBookmark */ = 36FF9D4014936C240003B82B /* PBXTextBookmark */;
+			36FF9D4114936C240003B82B /* PBXTextBookmark */ = 36FF9D4114936C240003B82B /* PBXTextBookmark */;
+			36FF9D4214936C240003B82B /* PBXTextBookmark */ = 36FF9D4214936C240003B82B /* PBXTextBookmark */;
+			36FF9D4314936C240003B82B /* PBXTextBookmark */ = 36FF9D4314936C240003B82B /* PBXTextBookmark */;
+			36FF9D4414936C240003B82B /* PBXTextBookmark */ = 36FF9D4414936C240003B82B /* PBXTextBookmark */;
+			36FF9D4514936C240003B82B /* PBXTextBookmark */ = 36FF9D4514936C240003B82B /* PBXTextBookmark */;
+			36FF9D4614936C240003B82B /* PBXTextBookmark */ = 36FF9D4614936C240003B82B /* PBXTextBookmark */;
+			36FF9D4714936C240003B82B /* PBXTextBookmark */ = 36FF9D4714936C240003B82B /* PBXTextBookmark */;
+			36FF9D9114936D5B0003B82B /* PBXTextBookmark */ = 36FF9D9114936D5B0003B82B /* PBXTextBookmark */;
+			36FF9F03149370A20003B82B /* PBXTextBookmark */ = 36FF9F03149370A20003B82B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 36FF9C9F1493689C0003B82B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	36FF9C9F1493689C0003B82B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	36FF9CA01493689C0003B82B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	36FF9D3E14936C240003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5A4BFD0612DEC9AC00FAE047 /* QMutableURLRequest.h */;
+		name = "QMutableURLRequest.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 327;
+		vrLoc = 0;
+	};
+	36FF9D3F14936C240003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5A4BFD5C12DEE2F100FAE047 /* QWeiboRequest.h */;
+		name = "QWeiboRequest.h: 1";
+		rLen = 1588;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	36FF9D4014936C240003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5AB257A612E535920080C324 /* QAsyncHttp.h */;
+		name = "QAsyncHttp.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 394;
+		vrLoc = 0;
+	};
+	36FF9D4114936C240003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5AB257A712E535920080C324 /* QAsyncHttp.m */;
+		name = "QAsyncHttp.m: 8";
+		rLen = 1;
+		rLoc = 73;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	36FF9D4214936C240003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5A4BFD5D12DEE2F100FAE047 /* QWeiboRequest.m */;
+		name = "QWeiboRequest.m: 13";
+		rLen = 10;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	36FF9D4314936C240003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5A25E87812DD8D0600DC77FA /* NSString+QEncoding.h */;
+		name = "NSString+QEncoding.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 223;
+		vrLoc = 0;
+	};
+	36FF9D4414936C240003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5A25E8DE12DDC73100DC77FA /* QOauth.h */;
+		name = "QOauth.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 204;
+		vrLoc = 0;
+	};
+	36FF9D4514936C240003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5A25E8DF12DDC73100DC77FA /* QOauth.m */;
+		name = "QOauth.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 0;
+	};
+	36FF9D4614936C240003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5A25E8F512DDD3C500DC77FA /* QOauthKey.h */;
+		name = "QOauthKey.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 453;
+		vrLoc = 143;
+	};
+	36FF9D4714936C240003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5A25E8F612DDD3C500DC77FA /* QOauthKey.m */;
+		name = "QOauthKey.m: 9";
+		rLen = 0;
+		rLoc = 94;
+		rType = 0;
+		vrLen = 245;
+		vrLoc = 0;
+	};
+	36FF9D9114936D5B0003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AA747D9E0F9514B9006C5449 /* QWeiboSDK4iOS_Prefix.pch */;
+		name = "QWeiboSDK4iOS_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 188;
+		vrLoc = 0;
+	};
+	36FF9F03149370A20003B82B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AA747D9E0F9514B9006C5449 /* QWeiboSDK4iOS_Prefix.pch */;
+		name = "QWeiboSDK4iOS_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 188;
+		rType = 0;
+		vrLen = 188;
+		vrLoc = 0;
+	};
+	5A25E87812DD8D0600DC77FA /* NSString+QEncoding.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 247}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 223}";
+		};
+	};
+	5A25E8DE12DDC73100DC77FA /* QOauth.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {530, 845}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 204}";
+		};
+	};
+	5A25E8DF12DDC73100DC77FA /* QOauth.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2691}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 299}";
+			sepNavWindowFrame = "{{107, 411}, {750, 558}}";
+		};
+	};
+	5A25E8F512DDD3C500DC77FA /* QOauthKey.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 416}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{143, 453}";
+			sepNavWindowFrame = "{{130, 390}, {750, 558}}";
+		};
+	};
+	5A25E8F612DDD3C500DC77FA /* QOauthKey.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 312}}";
+			sepNavSelRange = "{94, 0}";
+			sepNavVisRange = "{0, 245}";
+			sepNavWindowFrame = "{{153, 369}, {750, 558}}";
+		};
+	};
+	5A4BFD0612DEC9AC00FAE047 /* QMutableURLRequest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 327}";
+		};
+	};
+	5A4BFD5C12DEE2F100FAE047 /* QWeiboRequest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {530, 1001}}";
+			sepNavSelRange = "{0, 1588}";
+			sepNavVisRange = "{0, 197}";
+		};
+	};
+	5A4BFD5D12DEE2F100FAE047 /* QWeiboRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 1456}}";
+			sepNavSelRange = "{175, 10}";
+			sepNavVisRange = "{0, 267}";
+		};
+	};
+	5AB257A612E535920080C324 /* QAsyncHttp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {761, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 394}";
+		};
+	};
+	5AB257A712E535920080C324 /* QAsyncHttp.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 455}}";
+			sepNavSelRange = "{73, 1}";
+			sepNavVisRange = "{0, 442}";
+		};
+	};
+	AA747D9E0F9514B9006C5449 /* QWeiboSDK4iOS_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 219}}";
+			sepNavSelRange = "{188, 0}";
+			sepNavVisRange = "{0, 188}";
+		};
+	};
+	D2AAC07D0554694100DB518D /* QWeiboSDK4iOS */ = {
+		activeExec = 0;
+	};
+}
